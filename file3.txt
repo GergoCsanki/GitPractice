@@ -1,4 +1,3 @@
 whatwhatwhat1
-whatwhatwhat2
-whatwhatwhat3
+feature3
 whatwhatwhat4
